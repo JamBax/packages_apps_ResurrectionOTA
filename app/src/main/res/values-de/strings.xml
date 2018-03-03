@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
   <!-- ROM info -->
-  <string name="latest_version">Neueste Version: %1$s</string>
   <string name="unknown">Unbekannt</string>
   <string name="system_uptodate">Dein System ist auf dem neuesten Stand</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Automatische Updates sind aktiviert</string>
   <string name="autoupdate_disabled">Automatische Updates sind deaktiviert</string>
   <!-- Notification -->
-  <string name="notification_title">ROM-Update</string>
-  <string name="notification_message">Ein neues Update ist verfügbar!</string>
   <!-- Dialog -->
   <string name="dialog_message">Suche nach Aktualisierungen, bitte warten&#8230;</string>
+  <!-- Toast -->
 </resources>

@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Link-uri</string>
   <!-- ROM info -->
-  <string name="latest_version">Ultima versiune: %1$s</string>
   <string name="unknown">Necunoscut</string>
   <string name="system_uptodate">Sistemul dumneavoastră este actualizat</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Actualizarea automată este activată</string>
   <string name="autoupdate_disabled">Actualizarea automată este dezactivată</string>
   <!-- Notification -->
-  <string name="notification_title">Actualizare ROM</string>
-  <string name="notification_message">O nouă actualizare disponibilă!</string>
   <!-- Dialog -->
   <string name="dialog_message">Verific pentru actualizări ROM, vă rog așteptați&#8230;</string>
+  <!-- Toast -->
 </resources>

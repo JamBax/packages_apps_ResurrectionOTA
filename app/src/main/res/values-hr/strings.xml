@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Poveznice</string>
   <!-- ROM info -->
-  <string name="latest_version">Najnovija verzija: %1$s</string>
   <string name="unknown">Nepoznato</string>
   <string name="system_uptodate">Vaš je sustav ažuran.</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno</string>
   <string name="autoupdate_disabled">Automatsko ažuriranje je onemogućeno</string>
   <!-- Notification -->
-  <string name="notification_title">Ažuriranje ROM-a</string>
-  <string name="notification_message">Dostupno je novo ažuriranje!</string>
   <!-- Dialog -->
   <string name="dialog_message">Traženje ažuriranja sustava, molimo pričekajte&#8230;</string>
+  <!-- Toast -->
 </resources>

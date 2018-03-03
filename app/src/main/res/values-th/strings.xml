@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">ลิงก์</string>
   <!-- ROM info -->
-  <string name="latest_version">เวอร์ชั่นล่าสุด: %1$s</string>
   <string name="unknown">ไม่รู้จัก</string>
   <string name="system_uptodate">ระบบของคุณเป็นเวอร์ชั่นล่าสุดแล้ว</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">การอัปเดตอัตโนมัติเปิดใช้งาน</string>
   <string name="autoupdate_disabled">การอัปเดตอัตโนมัติปิดใช้งาน</string>
   <!-- Notification -->
-  <string name="notification_title">อัปเดต ROM</string>
-  <string name="notification_message">การอัปเดตใหม่พร้อมใช้งาน</string>
   <!-- Dialog -->
   <string name="dialog_message">กำลังตรวจสอบการอัพเดต, กรุณารอสักครู่ ...</string>
+  <!-- Toast -->
 </resources>

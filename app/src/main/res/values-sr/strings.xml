@@ -23,7 +23,6 @@
   <string name="ota_category">ОТА</string>
   <string name="links_category">Везе</string>
   <!-- ROM info -->
-  <string name="latest_version">Последње издање: %1$s</string>
   <string name="unknown">Непознато</string>
   <string name="system_uptodate">Ваш систем је ажуран</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Аутоматско ажурирање је укључено</string>
   <string name="autoupdate_disabled">Аутоматско ажурирање је искључено</string>
   <!-- Notification -->
-  <string name="notification_title">Надоградња РОМа</string>
-  <string name="notification_message">Ново издање је доступно!</string>
   <!-- Dialog -->
   <string name="dialog_message">Проверавам има ли надоградњи за РОМ, сачекајте&#8230;</string>
+  <!-- Toast -->
 </resources>

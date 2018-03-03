@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">קישורים</string>
   <!-- ROM info -->
-  <string name="latest_version">הגירסה העדכנית ביותר: %1$s</string>
   <string name="unknown">לא ידוע</string>
   <string name="system_uptodate">המערכת עדכנית</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">עדכון אוטומטי מופעל</string>
   <string name="autoupdate_disabled">עדכון אוטומטי מופסק</string>
   <!-- Notification -->
-  <string name="notification_title">עדכון ROM</string>
-  <string name="notification_message">עדכונים חדשים זמינים!</string>
   <!-- Dialog -->
   <string name="dialog_message">מחפש עדכונים, אנא המתן&#8230;</string>
+  <!-- Toast -->
 </resources>

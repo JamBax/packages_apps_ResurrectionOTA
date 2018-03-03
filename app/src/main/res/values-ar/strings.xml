@@ -23,7 +23,6 @@
   <string name="ota_category">تحديثات المصدر</string>
   <string name="links_category">الروابط</string>
   <!-- ROM info -->
-  <string name="latest_version">أحدث إصدار: %1$s</string>
   <string name="unknown">مجهول</string>
   <string name="system_uptodate">النظام الخاص بك محدث</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">تفعيل التحديث التلقائي</string>
   <string name="autoupdate_disabled">ايقاف التحديث التلقائي</string>
   <!-- Notification -->
-  <string name="notification_title">تحديث الروم</string>
-  <string name="notification_message">تحديث جديد متوفر!</string>
   <!-- Dialog -->
   <string name="dialog_message">يتم البحث عن تحديثات للنظام, برجاء الانتظار&#8230;</string>
+  <!-- Toast -->
 </resources>

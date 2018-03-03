@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
   <!-- ROM info -->
-  <string name="latest_version">Seneste udgave: %1$s</string>
   <string name="unknown">Ukendt</string>
   <string name="system_uptodate">Dit system er det nyeste</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Automatiske opdateringer er aktiveret</string>
   <string name="autoupdate_disabled">Automatiske opdateringer er deaktiveret</string>
   <!-- Notification -->
-  <string name="notification_title">ROM-opdatering</string>
-  <string name="notification_message">Ny opdatering tilgængelig!</string>
   <!-- Dialog -->
   <string name="dialog_message">Søger efter ROM opdateringer, vent venligst&#8230;</string>
+  <!-- Toast -->
 </resources>

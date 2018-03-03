@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Liên kết</string>
   <!-- ROM info -->
-  <string name="latest_version">Phiên bản mới nhất: %1$s</string>
   <string name="unknown">Không rõ</string>
   <string name="system_uptodate">Hệ thống của bạn đã được cập nhật</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Cập nhật tự động được kích hoạt</string>
   <string name="autoupdate_disabled">Cập nhật tự động bị vô hiệu hóa</string>
   <!-- Notification -->
-  <string name="notification_title">Cập nhật ROM</string>
-  <string name="notification_message">Bản cập nhật mới có sẵn!</string>
   <!-- Dialog -->
   <string name="dialog_message">Đang kiểm tra các cập nhật ROM, vui lòng chờ&#8230;</string>
+  <!-- Toast -->
 </resources>

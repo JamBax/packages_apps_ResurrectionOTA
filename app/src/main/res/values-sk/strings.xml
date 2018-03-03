@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Odkazy</string>
   <!-- ROM info -->
-  <string name="latest_version">Posledná verzia: %1$s</string>
   <string name="unknown">Neznáme</string>
   <string name="system_uptodate">Váš systém je aktuálny</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Automatické aktualizácie sú povolené</string>
   <string name="autoupdate_disabled">Automatické aktualizácie sú zakázané</string>
   <!-- Notification -->
-  <string name="notification_title">Aktualizácia ROM</string>
-  <string name="notification_message">Sú dostupné nové aktualizácie!</string>
   <!-- Dialog -->
   <string name="dialog_message">Kontrola aktualizácie ROM, čakajte prosím&#8230;</string>
+  <!-- Toast -->
 </resources>

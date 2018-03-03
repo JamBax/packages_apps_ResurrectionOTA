@@ -23,7 +23,6 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
   <!-- ROM info -->
-  <string name="latest_version">Nieuwste versie: %1$s</string>
   <string name="unknown">Onbekend</string>
   <string name="system_uptodate">Uw systeem is up-to-date</string>
   <!-- Check update -->
@@ -41,8 +40,7 @@
   <string name="autoupdate_enabled">Automatische updates zijn ingeschakeld</string>
   <string name="autoupdate_disabled">Automatische updates zijn uitgeschakeld</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">Nieuwe update beschikbaar!</string>
   <!-- Dialog -->
   <string name="dialog_message">Zoeken naar ROM updates, een moment geduld&#8230;</string>
+  <!-- Toast -->
 </resources>
